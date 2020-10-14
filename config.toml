@@ -1,7 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "ja"
 title = "Hugo Practice Site"
-
-[taxonomies]
-category = "categories"
-tag = "tags"
+theme = "ananke"
